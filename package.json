@@ -1,0 +1,14 @@
+{
+  "name": "cowin-slot-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cowin-slot-check.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "https": "^1.0.0"
+  }
+}
